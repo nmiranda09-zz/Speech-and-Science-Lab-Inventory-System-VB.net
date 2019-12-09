@@ -1,0 +1,112 @@
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Admin.resources
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Home.resources
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Resources.resources
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\bin\Debug\SSL Inventory System.exe
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\bin\Debug\SSL Inventory System.pdb
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\bin\Debug\SSL Inventory System.xml
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL Inventory System.exe
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL Inventory System.xml
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL Inventory System.pdb
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Create.resources
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Pass.resources
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Account.resources
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Items.resources
+C:\Users\Lenovo G400\AppData\Local\Temporary Projects\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.User.resources
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.exe
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.xml
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.pdb
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.exe
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.pdb
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.xml
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Account.resources
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Admin.resources
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Create.resources
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Home.resources
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Items.resources
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Resources.resources
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Pass.resources
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.User.resources
+C:\Users\Lenovo G400\Desktop\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.vbproj.GenerateResource.Cache
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.exe
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.xml
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.pdb
+F:\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.exe
+F:\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.pdb
+F:\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.xml
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Account.resources
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Admin.resources
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Create.resources
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Home.resources
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Items.resources
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Resources.resources
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Pass.resources
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.User.resources
+F:\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.vbproj.GenerateResource.Cache
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.exe
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.xml
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.pdb
+I:\SSL_Inventory_System\SSL Inventory System\bin\Debug\SSL Inventory System.exe
+I:\SSL_Inventory_System\SSL Inventory System\bin\Debug\SSL Inventory System.pdb
+I:\SSL_Inventory_System\SSL Inventory System\bin\Debug\SSL Inventory System.xml
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Account.resources
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Admin.resources
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Create.resources
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Home.resources
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Items.resources
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Resources.resources
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Pass.resources
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.User.resources
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.vbproj.GenerateResource.Cache
+I:\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Details.resources
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.exe
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.xml
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.pdb
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Account.resources
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Admin.resources
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Create.resources
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Details.resources
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Home.resources
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Items.resources
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Resources.resources
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Pass.resources
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\bin\Debug\SSL Inventory System.exe
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\bin\Debug\SSL Inventory System.pdb
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\bin\Debug\SSL Inventory System.xml
+C:\Users\Lenovo G400\Desktop\SSL_Inventory_System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Added.resources
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.exe
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.xml
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.pdb
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.exe
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.pdb
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.xml
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Account.resources
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Admin.resources
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Create.resources
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Details.resources
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Added.resources
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Home.resources
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Items.resources
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Resources.resources
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Pass.resources
+C:\Users\Lenovo G400\Documents\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.vbproj.GenerateResource.Cache
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.exe
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.xml
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.pdb
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\bin\Debug\STORAGE.mdf
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\bin\Debug\STORAGE_log.ldf
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.exe.config
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.exe
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.pdb
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\bin\Debug\SSL Inventory System.xml
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Account.resources
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Admin.resources
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Create.resources
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Details.resources
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Added.resources
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Home.resources
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Items.resources
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Resources.resources
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL_Inventory_System.Pass.resources
+D:\My Files\Final SAD Documents (for ring bind)\SSL Inventory System\SSL Inventory System\obj\x86\Debug\SSL Inventory System.vbproj.GenerateResource.Cache

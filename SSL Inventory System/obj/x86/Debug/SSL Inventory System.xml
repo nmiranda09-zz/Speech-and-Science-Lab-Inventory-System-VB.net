@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SSLInventorySystem
+</name>
+</assembly>
+<members>
+<member name="P:SSL_Inventory_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SSL_Inventory_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SSL_Inventory_System.My.Resources.Resources.header_logo3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SSL_Inventory_System.My.Resources.Resources.header_logo4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SSL_Inventory_System.My.Resources.Resources.header_logo5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SSL_Inventory_System.My.Resources.Resources.LCC_Bacolod">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SSL_Inventory_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblAccountsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblBrokenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblChemicalsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblInventoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblReserveDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblAccountsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblBrokenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblChemicalsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblInventoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblReserveRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblAccountsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblBrokenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblChemicalsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblInventoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet.tblReserveRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSetTableAdapters.tblAccountsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSetTableAdapters.tblBrokenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSetTableAdapters.tblChemicalsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSetTableAdapters.tblInventoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSetTableAdapters.tblReserveTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SSL_Inventory_System.STORAGEDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SSL_Inventory_System.STORAGEDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SSL_Inventory_System.STORAGEDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SSL_Inventory_System.STORAGEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SSL_Inventory_System.STORAGEDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SSL_Inventory_System.STORAGEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SSL_Inventory_System.STORAGEDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SSL_Inventory_System.STORAGEDataSetTableAdapters.TableAdapterManager.UpdateAll(SSL_Inventory_System.STORAGEDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SSL_Inventory_System.STORAGEDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
